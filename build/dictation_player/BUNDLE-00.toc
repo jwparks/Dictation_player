@@ -1,3 +1,0 @@
-([('dictation_player',
-   '/Users/jwpark/Documents/Python/dictation_player/dist/dictation_player',
-   'EXECUTABLE')],)
