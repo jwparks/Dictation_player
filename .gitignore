@@ -1,3 +1,5 @@
 *.spec
 build/
 dist/
+.DS_store
+__pycache__/
